@@ -1,1 +1,1 @@
-# loan_amortization
+# Loan Amortization Tool
