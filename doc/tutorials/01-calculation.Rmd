@@ -1,6 +1,6 @@
 ---
 title: "01 - Calculation"
-author: Ian McCamey
+author: "Michael Tychonievich, Ph.D."
 output: html_notebook
 ---
 
